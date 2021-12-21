@@ -15,3 +15,4 @@ The Convolutional Neural Network used in this project was written, compiled, and
 
 The model architecture includes 11 layers as described
 
+![](https://github.com/urseamajoris/BrainTumorCNN/blob/main/BTCNN/BTCNN_constructor.ipynb)
