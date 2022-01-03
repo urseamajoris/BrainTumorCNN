@@ -16,3 +16,5 @@ The Convolutional Neural Network used in this project was written, compiled, and
 The model architecture includes 11 layers as described
 
 ![](https://raw.githubusercontent.com/urseamajoris/BrainTumorCNN/blob/main/BTCNN/BTCNN_legend.png?raw=true)
+
+The model was trained over 100 epochs with batch size of 112. The validation with 112 test images revealed  `92.78`% accuracy
